@@ -1,0 +1,7 @@
+/bootstrap/compiled.php
+/public/pictures/
+/vendor
+composer.phar
+composer.lock
+.DS_Store
+Thumbs.db
